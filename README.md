@@ -16,5 +16,3 @@ npm install sailor-module-i18n
 ## License
 
 MIT © sailorjs
-
-
