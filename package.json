@@ -22,7 +22,9 @@
   "homepage": "",
   "keywords": [
     "sailor",
-    "module"
+    "module",
+    "translate",
+    "i18n"
   ],
   "license": "MIT",
   "main": "",
