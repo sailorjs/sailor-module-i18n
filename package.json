@@ -9,7 +9,9 @@
   },
   "keywords": [
     "sailor",
-    "module"
+    "module",
+    "translate",
+    "i18n"
   ],
   "license": "MIT",
   "repository" : {
